@@ -1,14 +1,25 @@
 footer {
-display: inline-block;
-list-style-type: none;
-text-align: center; 
-padding: 0;
-margin: 0;
+    
+    height:210px;
+    background: rgb(68, 54, 54);
+    display: block;
+    list-style-type: none;
+    text-align: center; 
+    padding: 0px;
+    margin-top: 15px;
+    border-bottom:150px;
+}
+article{
+
+    padding: 30px;
 }
 .media{
+    position: relative;
+    color: white;
    padding: 15px;
 }
 .list-unstyled li { 
+    position: relative;
     display: inline-block;
     font-size: 20px;
     padding: 20px;
