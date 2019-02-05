@@ -36,9 +36,18 @@
 
 .fa-instagram {
   background: #125688;
-  color: white;
+  color: rgb(202, 198, 198);
 }
 
+.jumbotron{
+  //background: rgb(88, 88, 90);
+  background: rgb(60,60,60);
+  color: white;
+}
+.jumbotron hr{
+  background: white;
+ 
+}
 
 
 
